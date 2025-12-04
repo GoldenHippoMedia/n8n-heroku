@@ -1,0 +1,16 @@
+name: n8n-heroku
+id: ari:cloud:compass:972e7666-58b6-4e89-87f4-6c0f672f67bd:component/a0ea1338-2e06-4dd5-8d49-dba02fe2269d/f8dc8f36-d5cb-42d2-8f33-914f29e205d9
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/GoldenHippoMedia/n8n-heroku
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
